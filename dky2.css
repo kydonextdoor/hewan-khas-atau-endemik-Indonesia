@@ -1,0 +1,55 @@
+.banner {
+    background: url("https://i.pinimg.com/736x/5d/69/38/5d6938cc9b520361bc7839dd97c112a8.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #2d2e7c;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.tim img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    object-position: center;
+    border: 10px solid #cccccc;
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #2d2e7c;
+    line-height: 40px;
+}
+
+
+
+.kontak {
+    background: url(https://i.pinimg.com/736x/d3/06/0b/d3060b66b6e1ba9d2213b7c04deacb69.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
